@@ -41,9 +41,9 @@ Users should be able to:
 
 ### Built with
 
-<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png" width="150" height="150">
-<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css3-4387639-3640300.png?f=webp" width="150" height="150">
-<img src="https://static.vecteezy.com/system/resources/previews/012/697/298/original/3d-javascript-logo-design-free-png.png" width="150" height="150">
+<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-html-5728485-4781249.png" width="70" height="70">
+<img src="https://cdn3d.iconscout.com/3d/free/thumb/free-css3-4387639-3640300.png?f=webp" width="70" height="70">
+<img src="https://static.vecteezy.com/system/resources/previews/012/697/298/original/3d-javascript-logo-design-free-png.png" width="70" height="70">
 
 ### What I learned
 
