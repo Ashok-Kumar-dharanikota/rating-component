@@ -1,12 +1,19 @@
 body  {
-    background-color: hsl(216, 12%, 8%);
+    /* background-color: hsl(216, 12%, 8%); */
+    background-color: black;
     color: hsl(0, 0%, 100%);
     font-family: 'Overpass', sans-serif;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+
 }
 
 
 #preview-card {
-    background-color: hsl(213, 19%, 18%);
+    background-color: hsl(216, 12%, 8%);
     margin: 30px;
     border-radius: 50px;
     padding: 30px;
@@ -83,7 +90,8 @@ button:hover {
 }
 
 #thank-you {
-    background-color: hsl(213, 19%, 18%);
+    /* background-color: hsl(213, 19%, 18%); */
+    background-color: black;
     margin: 30px;
     border-radius: 50px;
     padding: 30px;
@@ -97,7 +105,8 @@ button:hover {
 }
 
 .selected {
-    background-color:hsla(217, 12%, 63%, 0.118);
+    /* background-color:hsla(217, 12%, 63%, 0.118); */
+    background-color: hsl(213, 19%, 18%);
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
